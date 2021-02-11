@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Class which extends JFame
+ * Class which extends JFrame
  * @author Sezer Mehmed
  */
 public class GameBoard extends JFrame {
