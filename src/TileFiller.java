@@ -68,8 +68,6 @@ public class TileFiller {
      * Method,for generating random numbers.
      * @return
      */
-
-
     private int randomNumberGenerator() {
         Random rand = new Random();
         return rand.nextInt(8);
